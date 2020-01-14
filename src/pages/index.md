@@ -3,18 +3,16 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Paul here; thanks for stopping by! I thrive on collaborating with great teams,
-    designers, and business owners. I also cook.
+  title: Paul here; thanks for stopping by! I love helping companies build a dynamic
+    web presence. I also cook.
   section_id: hero
   component: HeroBlock
-  content: "Web design & development is constantly changing and complex industry.
-    At its core, however, is a craft that, like cooking, requires the application
-    of skills, experience, and a little experimentation to create the best dishes.\n\n**I
-    love helping companies build a dynamic web presence** and bring 25 years of technology
-    and marketing experience to web design, development, search engine optimization,
-    and most of the technical stuff in between. \n\nMy skillset includes custom designing
-    and coding websites using WordPress, prepping and optimizing web servers, cooking
-    up email newsletter templates, and baking online advertising campaigns."
+  content: "I thrive on collaborating with great teams, designers, and business owners
+    and bring 25 years of technology and marketing experience to web design, development,
+    search engine optimization, and most of the technical stuff in between. \n\nMy
+    skillset includes custom designing and coding websites using WordPress, prepping
+    and optimizing web servers, cooking up email newsletter templates, and baking
+    online advertising campaigns."
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
