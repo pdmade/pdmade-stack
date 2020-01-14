@@ -50,7 +50,8 @@ sections:
     content: Experienced landing page design and integration for Salesforce, Marketo,
       and Hubspot will help fill your sales funnel with great leads.
   - title: Email Newsletters & Campaigns
-    content: I help set up online email campaigns for mailing lists and lead generation.
+    content: Online email campaigns for mailing lists and lead generation are one
+      of the best ways to stay in contact with potential clients.
   - title: Search Engine Optimization
     content: I follow SEO best practices and know how to keep your site fast and crawlable,
       keeping the search engines happy.
