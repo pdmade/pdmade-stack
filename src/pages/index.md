@@ -38,6 +38,11 @@ sections:
   - title: WordPress Expertise
     content: I've worked with WordPress, both custom-sites and pre-built themes, almost
       exclusively for the past 10 years.
+  - title: Server Management
+    content: I help to keep your web servers and domains up-to-date and speedy.
+  - title: Online Advertising
+    content: I'll work to optimize your paid search campaigns and online listings
+      for maximum impact.
   - title: Lead Generation
     content: I have experience with landing pages for Salesforce, Marketo, and Hubspot
       to help fill your sales funnel with great leads.
@@ -46,11 +51,6 @@ sections:
   - title: Search Engine Optimization
     content: I follow SEO best practices and know how to keep your site fast and crawlable,
       keeping the search engines happy.
-  - title: Server Management
-    content: I help to keep your web servers and domains up-to-date and speedy.
-  - title: Online Advertising
-    content: I'll work to optimize your paid search campaigns and online listings
-      for maximum impact.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
