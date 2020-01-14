@@ -3,8 +3,8 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Paul here. Thanks for stopping by! I help companies build a dynamic web presence.
-    I also cook.
+  title: Paul here. Thanks for stopping by! I love helping companies build a dynamic
+    web presence. I also cook.
   section_id: hero
   component: HeroBlock
   content: |-
