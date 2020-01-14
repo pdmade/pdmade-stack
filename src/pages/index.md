@@ -22,7 +22,7 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What I Do
+  title: Services
   section_id: services
   component: ServicesBlock
   subtitle: Web design & development is a constantly changing and complex industry.
