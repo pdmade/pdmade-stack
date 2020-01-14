@@ -41,7 +41,7 @@ sections:
   - title: Lead Generation
     content: I have experience with landing pages for Salesforce, Marketo, and Hubspot
       to help fill your sales funnel with great leads.
-  - title: Newsletter Campaigns
+  - title: Email Newsletters & Campaigns
     content: I help set up online email campaigns for mailing lists and lead generation.
   - title: SEO
     content: I follow best practices and know how to keep your site fast to keep the
