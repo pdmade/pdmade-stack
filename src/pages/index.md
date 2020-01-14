@@ -3,12 +3,12 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, Paul here. I bring 25 years of experience to web design, web development,
-    and SEO.
+  title: Hi! I help small businesses build a dynamic web presence through design,
+    development, and SEO best practices.
   section_id: hero
   component: HeroBlock
-  content: I help small businesses build a dynamic web presence through design, development,
-    and SEO.
+  content: I bring 25 years of experience to web design, development, SEO, and all
+    the technical hubbub in between.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
