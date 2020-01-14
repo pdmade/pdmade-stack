@@ -47,8 +47,8 @@ sections:
     content: I'll work to optimize your paid search campaigns and online listings
       for maximum impact.
   - title: Lead Generation
-    content: I have experience with landing pages for Salesforce, Marketo, and Hubspot
-      to help fill your sales funnel with great leads.
+    content: Experienced landing page design and integration for Salesforce, Marketo,
+      and Hubspot will help fill your sales funnel with great leads.
   - title: Email Newsletters & Campaigns
     content: I help set up online email campaigns for mailing lists and lead generation.
   - title: Search Engine Optimization
