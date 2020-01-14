@@ -70,11 +70,11 @@ sections:
       I've undertaken and I continue to refer and recommend his services to anyone
       looking for solid web development. I love working with him and will continue
       to do so!
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: Eve Riley
+    avatar: "/images/0-2.jpeg"
+    content: Paul was a great boss, and a real joy to work for. He provided leadership
+      as well as mentoring and training. It was soon apparent that he was highly regarded
+      both personally and professionally by all who worked with him.
 - type: postsblock
   template: postsblock
   title: Latest from the Blog
