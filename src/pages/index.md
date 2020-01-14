@@ -31,8 +31,8 @@ sections:
     best dishes.
   serviceslist:
   - title: Web Design & Development
-    content: From sitemaps to comps, content to code, I work with you through the
-      process.
+    content: Sitemaps to comps. Content to code. We'll work through a disciplined
+      process for a site that fulfills your needs.
   - title: WordPress Expertise
     content: I've worked with WordPress, both custom-sites and pre-built themes, almost
       exclusively for the past 10 years.
