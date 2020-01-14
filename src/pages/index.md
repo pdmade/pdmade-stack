@@ -25,10 +25,12 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: What I Do
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Web design & development is constantly changing and complex industry.
+    At its core, however, is a craft that, like cooking, requires the application
+    of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
   - title: Service Title
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
