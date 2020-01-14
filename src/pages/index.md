@@ -3,8 +3,8 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi! I help small businesses build a dynamic web presence through design,
-    development, and SEO best practices.
+  title: Hi! Nice to meet you! I help companies build a dynamic web presence through
+    design, development, and SEO best practices.
   section_id: hero
   component: HeroBlock
   content: "I bring 25 years of experience to web design, development, search engine
