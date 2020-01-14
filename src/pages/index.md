@@ -38,9 +38,8 @@ sections:
   - title: SEO
     content: I follow best practices and know how to keep your site fast to keep the
       search engines happy.
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: Server Management
+    content: I help to keep your web servers and domains up-to-date and speedy.
   - title: Service title
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
