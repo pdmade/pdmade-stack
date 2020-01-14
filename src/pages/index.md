@@ -32,6 +32,9 @@ sections:
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
+  - title: WordPress Expertise
+    content: I've worked with WordPress, both custom-sites and pre-built themes, almost
+      exclusively for the past 10 years.
   - title: Lead Generation Pages
     content: I have experience with Salesforce, Marketo, and Hubspot to help fill
       your sales funnel with great leads.
