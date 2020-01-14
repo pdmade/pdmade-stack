@@ -32,17 +32,17 @@ sections:
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
+  - title: Web Design & Development
+    content: From sitemaps to comps, content to code, I work with you through the
+      process.
   - title: WordPress Expertise
     content: I've worked with WordPress, both custom-sites and pre-built themes, almost
       exclusively for the past 10 years.
-  - title: Lead Generation Pages
+  - title: Lead Generation
     content: I have experience with Salesforce, Marketo, and Hubspot to help fill
       your sales funnel with great leads.
   - title: Newsletter Campaigns
     content: I help set up online email campaigns for mailing lists and lead generation.
-  - title: Web Design & Development
-    content: From sitemaps to comps, content to code, I work with you through the
-      process.
   - title: SEO
     content: I follow best practices and know how to keep your site fast to keep the
       search engines happy.
