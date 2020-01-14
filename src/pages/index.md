@@ -41,7 +41,8 @@ sections:
     content: Staying on top of recent trends allows me to recommend the latest user
       experience and user interface designs and separate the fads from the functional.
   - title: Server Management
-    content: I help to keep your web servers and domains up-to-date and speedy.
+    content: Keeping your web servers and domains up-to-date and optimized requires
+      frequent maintenance, attention, and know-how.
   - title: Online Advertising
     content: I'll work to optimize your paid search campaigns and online listings
       for maximum impact.
