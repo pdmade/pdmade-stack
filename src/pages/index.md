@@ -29,8 +29,9 @@ sections:
   section_id: services
   component: ServicesBlock
   subtitle: Web design & development is a constantly changing and complex industry.
-    At its core, however, is a craft that, like cooking, requires the application
-    of skills, experience, and a little experimentation to create the best dishes.
+    However, at its core is a craft that, like cooking, requires the application of
+    skills, experience, and a little experimentation with ingredients to create the
+    best dishes.
   serviceslist:
   - title: Web Design & Development
     content: From sitemaps to comps, content to code, I work with you through the
