@@ -10,9 +10,9 @@ sections:
   content: |-
     Web design & development is an industry in constant flux with increasing complexity. At its core, however, is a craft that requires the application of skills and experience to create effective online experiences.
 
-    I bring 25 years of technology and marketing experience to web design, development, search engine optimization, and most of the technical stuff in between. My specialties include custom designed websites using WordPress, email newsletter templates, web server and domain administration, and online advertising.
+    I bring 25 years of technology and marketing experience to web design, development, search engine optimization, and most of the technical stuff in between. My skills include custom designing and coding websites using WordPress, creating email newsletter templates, managing web servers and domains, and implementing online advertising campaigns.
 
-    Whether a business is small or medium, simple or complex, _I thrive on collaborating with great teams, designers, and business owners, to bring their vision to life._
+    **I thrive on collaborating with great teams, designers, and business owners, to bring their vision to life.**
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
