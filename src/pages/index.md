@@ -3,15 +3,15 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi! Nice to meet you! I help companies build a dynamic web presence through
+  title: Hi, Paul here! I help companies build a dynamic web presence through web
     design, development, and SEO best practices.
   section_id: hero
   component: HeroBlock
-  content: "I bring 25 years of marketing and technology experience to web design,
-    development, search engine optimization, and all the technical stuff in between.
-    My specialties include custom WordPress development, online advertising, and server
-    administration.  \n  \nI particularly enjoy working with great designers to bring
-    their vision to life."
+  content: "Nice to meet you!\n\nI bring 25 years of marketing and technology experience
+    to web design, development, search engine optimization, and all the technical
+    stuff in between. My specialties include custom WordPress development, online
+    advertising, and server administration.  \n  \nI particularly enjoy working with
+    great designers to bring their vision to life."
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
