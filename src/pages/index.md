@@ -7,8 +7,10 @@ sections:
     development, and SEO best practices.
   section_id: hero
   component: HeroBlock
-  content: I bring 25 years of experience to web design, development, SEO, and all
-    the technical hubbub in between.
+  content: "I bring 25 years of experience to web design, development, search engine
+    optimization, and all the technical stuff in between. My specialties include custom
+    WordPress development, online advertising, and server administration.  \n  \nI
+    particularly enjoy working with great designers to bring their vision to life."
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
