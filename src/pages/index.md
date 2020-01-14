@@ -43,9 +43,9 @@ sections:
       to help fill your sales funnel with great leads.
   - title: Email Newsletters & Campaigns
     content: I help set up online email campaigns for mailing lists and lead generation.
-  - title: SEO
-    content: I follow best practices and know how to keep your site fast to keep the
-      search engines happy.
+  - title: Search Engine Optimization
+    content: I follow SEO best practices and know how to keep your site fast and crawlable,
+      keeping the search engines happy.
   - title: Server Management
     content: I help to keep your web servers and domains up-to-date and speedy.
   - title: Online Advertising
