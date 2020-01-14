@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Paul here; nice to meet you! I help companies build a dynamic web presence.
+  title: Paul here. Nice to meet you! I help companies build a dynamic web presence.
     I also cook.
   section_id: hero
   component: HeroBlock
