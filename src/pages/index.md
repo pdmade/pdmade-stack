@@ -30,15 +30,15 @@ sections:
     skills, experience, and a little experimentation with ingredients to create the
     best dishes.
   serviceslist:
-  - title: UX/UI
-    content: I stay on top of recent trends to recommend the lates user experience
-      and user interface designs.
   - title: Web Design & Development
     content: From sitemaps to comps, content to code, I work with you through the
       process.
   - title: WordPress Expertise
     content: I've worked with WordPress, both custom-sites and pre-built themes, almost
       exclusively for the past 10 years.
+  - title: UX/UI
+    content: I stay on top of recent trends to recommend the lates user experience
+      and user interface designs.
   - title: Server Management
     content: I help to keep your web servers and domains up-to-date and speedy.
   - title: Online Advertising
