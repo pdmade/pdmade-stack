@@ -32,6 +32,9 @@ sections:
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
+  - title: Lead Generation Pages
+    content: I have experience with Salesforce, Marketo, and Hubspot to help fill
+      your sales funnel with great leads.
   - title: Newsletter Campaigns
     content: I help set up online email campaigns for mailing lists and lead generation.
   - title: Web Design & Development
