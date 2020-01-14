@@ -28,7 +28,7 @@ sections:
   title: What I Do
   section_id: services
   component: ServicesBlock
-  subtitle: Web design & development is constantly changing and complex industry.
+  subtitle: Web design & development is a constantly changing and complex industry.
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
