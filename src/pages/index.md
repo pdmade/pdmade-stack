@@ -40,10 +40,9 @@ sections:
       search engines happy.
   - title: Server Management
     content: I help to keep your web servers and domains up-to-date and speedy.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Online Advertising
+    content: I'll work to optimize your paid search campaigns and online listings
+      for maximum impact.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
