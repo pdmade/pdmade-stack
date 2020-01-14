@@ -32,10 +32,9 @@ sections:
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+  - title: Web Design & Development
+    content: From sitemaps to comps, content to code, I work with you through the
+      process.
   - title: Service Title
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
