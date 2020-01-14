@@ -62,10 +62,14 @@ sections:
   component: TestimonialsBlock
   subtitle: An optional subtitle of the section
   testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Jen Gray
+    avatar: "/images/0.jpeg"
+    content: Paul is an incredible web developer who does not shy away from any challenge.
+      He has helped me build multiple outstanding mobile-responsive websites on Wordpress
+      using an extremely easy webpage builder. He's been a valuable asset to any project
+      I've undertaken and I continue to refer and recommend his services to anyone
+      looking for solid web development. I love working with him and will continue
+      to do so!
   - author: Jane Roe
     avatar: images/jane_roe.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
