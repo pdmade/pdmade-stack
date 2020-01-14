@@ -32,6 +32,8 @@ sections:
     At its core, however, is a craft that, like cooking, requires the application
     of skills, experience, and a little experimentation to create the best dishes.
   serviceslist:
+  - title: Newsletter Campaigns
+    content: I help set up online email campaigns for mailing lists and lead generation.
   - title: Web Design & Development
     content: From sitemaps to comps, content to code, I work with you through the
       process.
