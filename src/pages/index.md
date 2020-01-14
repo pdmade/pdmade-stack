@@ -38,8 +38,8 @@ sections:
       typically with custom-design sites, although the occasional pre-built theme
       finds its way to the table.
   - title: UX/UI
-    content: I stay on top of recent trends to recommend the lates user experience
-      and user interface designs.
+    content: Staying on top of recent trends allows me to recommend the latest user
+      experience and user interface designs and separate the fads from the functional.
   - title: Server Management
     content: I help to keep your web servers and domains up-to-date and speedy.
   - title: Online Advertising
