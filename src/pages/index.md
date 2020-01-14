@@ -53,8 +53,8 @@ sections:
     content: Online email campaigns for mailing lists and lead generation are one
       of the best ways to stay in contact with potential clients.
   - title: Search Engine Optimization
-    content: I follow SEO best practices and know how to keep your site fast and crawlable,
-      keeping the search engines happy.
+    content: Following SEO best practices and ensuring your site is fast and mobile-friendly
+      are critical to keeping the search engines happy.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
