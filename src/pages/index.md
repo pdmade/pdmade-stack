@@ -34,8 +34,9 @@ sections:
     content: Sitemaps to comps. Content to code. We'll work through a disciplined
       process for a site that fulfills your needs.
   - title: WordPress Expertise
-    content: I've worked with WordPress, both custom-sites and pre-built themes, almost
-      exclusively for the past 10 years.
+    content: For the past 10 years, I've worked almost exclusively with WordPress,
+      typically with custom-design sites, although the occasional pre-built theme
+      finds its way to the table.
   - title: UX/UI
     content: I stay on top of recent trends to recommend the lates user experience
       and user interface designs.
