@@ -3,16 +3,13 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Paul here; thanks for stopping by! <br />I love building a dynamic web presence
-    for companies. I also cook.
+  title: Paul here; nice to meet you! I help companies build a dynamic web presence.
+    I also cook.
   section_id: hero
   component: HeroBlock
-  content: "I thrive on collaborating with great teams, designers, and business owners
+  content: I thrive on collaborating with great teams, designers, and business owners
     and bring 25 years of technology and marketing experience to web design, development,
-    search engine optimization, and most of the technical stuff in between. \n\nMy
-    skillset includes custom designing and coding websites using WordPress, prepping
-    and optimizing web servers, cooking up email newsletter templates, and baking
-    online advertising campaigns."
+    search engine optimization, and most of the technical stuff in between.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
