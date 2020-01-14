@@ -8,11 +8,11 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
-    Web design & development is an industry in constant flux with increasing complexity. At its core, however, is a craft that requires the application of skills and experience to create the most effective online experience.
+    Web design & development is an industry in constant flux with increasing complexity. At its core, however, is a craft that requires the application of skills and experience to create effective online experiences.
 
     I bring 25 years of technology and marketing experience to web design, development, search engine optimization, and most of the technical stuff in between. My specialties include custom designed websites using WordPress, email newsletter templates, web server and domain administration, and online advertising.
 
-    Whether a business is small or medium, simple or complex, B2B or B2C, _I thrive on collaborating with great teams, designers, and business owners, to bring their vision to life._
+    Whether a business is small or medium, simple or complex, _I thrive on collaborating with great teams, designers, and business owners, to bring their vision to life._
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
