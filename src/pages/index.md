@@ -7,9 +7,9 @@ sections:
     I also cook.
   section_id: hero
   component: HeroBlock
-  content: I thrive on collaborating with teams, designers, and business owners and
-    harness 25 years of technology and marketing experience towards web design, development,
-    search engine optimization, and most of the technical stuff in between.
+  content: I thrive on collaborating with teams, designers, and business owners, harnessing
+    deep technology and marketing experience towards web design, custom website development,
+    server management, and digital marketing.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
