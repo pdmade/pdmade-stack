@@ -60,7 +60,7 @@ sections:
   title: Testimonials
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   testimonialslist:
   - author: Jen Gray
     avatar: "/images/0.jpeg"
