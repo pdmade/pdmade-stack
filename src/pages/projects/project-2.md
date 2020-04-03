@@ -1,8 +1,8 @@
 ---
-title: Making a Faster Site for Epic Ryde Fitness
+title: Speed Matters for Epic Ryde Fitness Cycling Studio
 subtitle: Rescued From a Slow WordPress Theme
 date: 2019-04-30
-thumb_img_path: "/images/EpicRyde-6-of-6.jpg"
+thumb_img_path: "/images/EpicRyde-1-of-6.jpg"
 content_img_path: "/images/Portfolio-EpicRyde-1-2x.jpg"
 template: project
 
