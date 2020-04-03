@@ -1,9 +1,9 @@
 ---
 title: Extole.com
-subtitle: Client since 2015
+subtitle: Lead Generation with WordPress and Marketo since 2015
 date: 2019-05-10T06:00:00Z
-thumb_img_path: "/images/Extole-Home-TopBanner-032918.jpg"
-content_img_path: "/images/Portfolio-Extole-1-2x.jpg"
+thumb_img_path: "/images/2020-epic-list-collage-1.jpg"
+content_img_path: "/images/2020-epic-list-collage-1.jpg"
 template: project
 
 ---
