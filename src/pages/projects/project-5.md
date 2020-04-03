@@ -2,7 +2,7 @@
 title: A New Homepage Design and a New Calendar
 subtitle: Smaller Project Using an Existing Theme
 date: 2019-01-05
-thumb_img_path: "/images/first-presbyterian-preservation-slide.jpg"
+thumb_img_path: "/images/LarimerDarker2.jpg"
 content_img_path: "/images/Portfolio-HistoricDenver-1-2x@2x.jpg"
 template: project
 
