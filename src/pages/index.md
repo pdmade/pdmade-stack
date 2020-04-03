@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: PDMade is a web agency  that provide digital expertise for designers, marketing
+  title: PDMade is a web agency that provide digital expertise for designers, marketing
     teams, and companies.
   section_id: hero
   component: HeroBlock
