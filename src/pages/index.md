@@ -3,14 +3,13 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: 'PDMade is a web agency that provides digital expertise and execution for
-    designers and companies. '
+  title: PDMade is a web agency.
   section_id: hero
   component: HeroBlock
-  content: We design, code, test, launch, and track websites and digital marketing
-    campaigns. We are collaborative, creative, and detail-oriented. We work independently
-    or as a member of your team. We work on projects large or small, fixed-fee or
-    hourly.
+  content: We provide digital expertise and execution for designers and companies.
+    We design, code, test, launch, and track websites and digital marketing campaigns.
+    We are collaborative, creative, and detail-oriented. We work independently or
+    as a member of your team. We work on projects large or small, fixed-fee or hourly.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
