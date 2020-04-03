@@ -7,7 +7,7 @@ content_img_path: "/images/Portfolio-Instrukt-1-2x.jpg"
 template: project
 
 ---
-PDMADE used a page builder to design global support layouts that give Instrukt an affordable, easily updatable foundation for their new mobile app’s website and app support pages. The owners of EpicRyde also own Instrukt, so yet another repeat customer.
+PDMADE designed and built global support layouts that give Instrukt an affordable, easily updatable foundation for their new mobile app’s website and app support pages. The owners of EpicRyde also own Instrukt, so another repeat customer, which is the BEST kind of customer.
 
 [Instrukt Launch Site](http://instrukt.pdmade.com "View the Original Launch Site")
 
