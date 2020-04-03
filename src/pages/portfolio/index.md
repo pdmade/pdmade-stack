@@ -1,10 +1,12 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: Our Work
+subtitle: We work collaboratively with ad agencies, designers, and marketing teams
+  and business owners.
+layout_style: tiles
 menus:
   main:
     title: Portfolio
     weight: 2
 template: portfolio
+
 ---
