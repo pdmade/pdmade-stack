@@ -1,5 +1,5 @@
 ---
-title: Generating Leads for Extole.com
+title: Lead Generation for SASS Startup Extole.com
 subtitle: Lead Generation Focus with WordPress, Marketo, and Salesforce
 date: 2019-05-10T06:00:00Z
 thumb_img_path: "/images/2020-epic-list-collage-1.jpg"
