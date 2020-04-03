@@ -11,7 +11,7 @@ A poorly-coded WordPress theme from Themeforest caused EpicRyde’s site took 20
 
 PDMade provided a redesign and rebuilt with speed in mind along with our favorite site editor to help studio owners make updates more easily.
 
-In addition, we set up their Google Analytics and Search Console to better track site visits, search queries, and integrated with MondBody to track package purchases.
+In addition, we set up their Google Analytics and Search Console to better track site visits, search queries, and integrated with MindBody to track package purchases.
 
 [https://epicryde.com](https://epicryde.com "https://epicryde.com")
 
