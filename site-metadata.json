@@ -4,7 +4,7 @@
   "accent_color": "pink",
   "header": {
     "title": "PDMADE",
-    "has_nav": true,
+    "has_nav": false,
     "logo_img": "/images/pd-made-300x300.png"
   },
   "footer": {
