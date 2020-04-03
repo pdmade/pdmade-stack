@@ -18,7 +18,7 @@ sections:
   component: PortfolioBlock
   subtitle: ''
   layout_style: mosaic
-  num_projects_displayed: 6
+  num_projects_displayed: 9
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
