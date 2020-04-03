@@ -1,5 +1,5 @@
 ---
-title: Helping Designers Achieve Their Vision Online
+title: Helping Really Good Designers Achieve Their Vision Online
 subtitle: Client since 2014
 date: 2019-02-26
 thumb_img_path: "/images/©DesignisPlay_OneCatering_sketches_prog.jpg"
