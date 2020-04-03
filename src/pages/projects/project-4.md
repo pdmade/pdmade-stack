@@ -9,7 +9,7 @@ template: project
 ---
 Angie Wang and Mark Fox, internationally-acclaimed designers, became one of our first clients when they needed to convert their website to WordPress. Respecting our collaborative relationship and attention to detail, they have referred many projects to PDMade over the years.
 
-[http://designisplay.com/work/](http://designisplay.com/ "http://designisplay.com/")
+[http://designisplay.com/](http://designisplay.com/ "http://designisplay.com/")
 
 ## Services Provided
 
