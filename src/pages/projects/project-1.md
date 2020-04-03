@@ -7,7 +7,7 @@ content_img_path: "/images/2020-epic-list-collage-1.jpg"
 template: project
 
 ---
-While their startup SASS (software as a service) business evolved and pivoted in the dynamic Referral Marketing industry, PDMade built and launched multiple versions of the Extole.com site over the last 5 years. We collaborate closely on their marketing automation and lead generation programs, iterative site improvements, and new page design.
+While their startup SASS (Software-as-a-Service) business model evolved and pivoted in the dynamic Referral Marketing Platform industry, PDMade built and launched multiple versions of the Extole.com site over the last 5 years. We continue to collaborate closely on their marketing automation and lead generation programs, iterative site improvements, SEO, and new page design.
 
 [https://www.extole.com/](https://www.extole.com/ "https://www.extole.com/")
 
