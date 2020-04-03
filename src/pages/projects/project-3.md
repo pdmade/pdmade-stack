@@ -1,5 +1,5 @@
 ---
-title: Burke Hospitality Group
+title: A System of Sites for Burke Hospitality Group Restaurants
 subtitle: 5 Years, 6 Sites, and 1 Ecommerce Platform.
 date: 2019-04-08
 thumb_img_path: "/images/BHG-Featured-Image.jpg"
