@@ -11,6 +11,8 @@ A poorly-coded WordPress theme from Themeforest caused EpicRyde’s site took 20
 
 PDMade provided a redesign and rebuilt with speed in mind along with our favorite site editor to help studio owners make updates more easily.
 
+[https://epicryde.com](https://epicryde.com "https://epicryde.com")
+
 ## Services Provided
 
 WordPress Development, Web Server Management, Website Design, Page Building, SEO, Content Management
