@@ -1,16 +1,22 @@
 ---
 title: Extole.com
-subtitle: Optional Project Subtitle
-date: 2019-05-10
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+subtitle: Client since 2015
+date: 2019-05-10T06:00:00Z
+thumb_img_path: "/images/Extole-Home-TopBanner-032918.jpg"
+content_img_path: "/images/Portfolio-Extole-1-2x.jpg"
 template: project
 
 ---
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+## Ongoing client since 2015
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+As their business evolved in the dynamic Referral Marketing industry, PDMade delivered 3 new versions of the Extole.com site over the last 5 years. We work closely on their marketing automation integrations, iterative site improvements, and new page design.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+[https://www.extole.com/](https://www.extole.com/ "https://www.extole.com/")
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+## Services Provided
+
+WordPress Development, Web Server Management, SEO, Analytics, Page Design, Page Builds, Content Development, API/Integrations (JazzHR, Marketo, Salesforce, Drift).
+
+![](/images/Portfolio-Extole-3-2x.jpg)
+
+![](/images/Portfolio-Extole-2-2x.jpg)
