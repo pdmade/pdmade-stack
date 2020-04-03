@@ -1,5 +1,5 @@
 ---
-title: Epic Ryde Fitness Studio
+title: A Faster Site for Epic Ryde Fitness Studio
 subtitle: Rescued From a Slow WordPress Theme
 date: 2019-04-30
 thumb_img_path: "/images/EpicRyde-6-of-6.jpg"
