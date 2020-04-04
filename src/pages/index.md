@@ -81,7 +81,7 @@ sections:
   title: Latest from the Blog
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Under construction, but coming soon!
   num_posts_displayed: 2
   actions:
   - label: View Blog
