@@ -91,7 +91,7 @@ sections:
   title: Contact Us
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Ask us anything!
 menus:
   main:
     title: Home
