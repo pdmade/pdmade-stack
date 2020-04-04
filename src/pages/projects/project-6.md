@@ -1,5 +1,5 @@
 ---
-title: A Launch Website for a Mobile App Launch
+title: A Launch Website for a Mobile App
 subtitle: Lead generation with online support templates
 date: 2018-12-18
 thumb_img_path: "/images/Instrukt-featured-image.jpg"
