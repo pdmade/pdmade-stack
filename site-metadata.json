@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Exto Theme",
+  "title": "PDMADE - WordPress Web Agency and Digital Marketing",
   "color_scheme": "light",
   "accent_color": "pink",
   "header": {
@@ -11,7 +11,7 @@
     "content": "&copy; Stackbit-Exto. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
+        "text": "Made with Gatsby, Forestry, and Stackbit",
         "url": "https://www.stackbit.com",
         "new_window": true
       }
