@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/blog-page-is-coming-soon.md
