@@ -5,9 +5,11 @@ subtitle: What makes us different than other web agencies?
 img_path: ''
 
 ---
+PDMade is a Denver-based website design and development agency. We have a decade of experience making WordPress websites, deep experience in digital marketing, and experience working globally for multi-national agencies and networks. 
+
 ## Long-Term Relationships, and Referrals
 
-Our client relationships tend to be long-term. 
+Our client relationships tend to be long-term.
 
 * Design is Play since 2014
 * Extole since 2015
